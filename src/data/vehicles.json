@@ -1,0 +1,30 @@
+[
+  {
+    "id": "L1H1",
+    "label": "L1H1",
+    "length": 440,
+    "width": 175,
+    "height": 190
+  },
+  {
+    "id": "L2H2",
+    "label": "L2H2",
+    "length": 490,
+    "width": 175,
+    "height": 210
+  },
+  {
+    "id": "L3H2",
+    "label": "L3H2",
+    "length": 540,
+    "width": 175,
+    "height": 210
+  },
+  {
+    "id": "L3H3",
+    "label": "L3H3",
+    "length": 540,
+    "width": 175,
+    "height": 230
+  }
+]
